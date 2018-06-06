@@ -17,7 +17,7 @@ puts "How are you doing today? I'm okay, but I'm kind of tired. Did you watch Th
     super
     super
     super
-    puts "Pick me!"
+    #puts "Pick me!"
   end
 
 end
